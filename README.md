@@ -9,3 +9,4 @@ git init
 
 # Initialize Node.js project
 npm init -y
+npm install express
